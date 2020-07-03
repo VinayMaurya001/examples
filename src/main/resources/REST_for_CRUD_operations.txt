@@ -1,0 +1,13 @@
+REST for CRUD operations
+
+
+Get 1 employee
+	GET http://localhost:8080/employees/2
+GetAllEmployees
+	HTTP GET http://localhost:8080/employees
+Create Employee
+	POST http://localhost:8080/employees/
+Delete Employee		
+	DELETE http://localhost:8080/employees/2
+Update Employee
+	POST http://localhost:8080/employees/
